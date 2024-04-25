@@ -39,4 +39,21 @@
     <string name="orden_mensaje_confirmacion">En un momento recibiras un mensaje de \n texto con más informacion sobre tu orden.</string>
 
     <string name="imagen_oden_lista_pizza">Imagen Orden Lista</string>
+
+
+    <string name="drawer_act_inicio">Te estas dirigiendo al inicio</string>
+    <string name="drawer_act_paquetes">Mostrando paquetes</string>
+    <string name="drawer_act_promociones">Mostrando promociones</string>
+    <string name="drawer_act_contacto">Mostrando informacion de contacto</string>
+    <string name="actionbar_act_carrito">Carrito</string>
+    <string name="actionbar_act_favoritos">Favoritos</string>
+    <string name="actionbar_act_ubicacion">Ubicacion</string>
+
+    <string name="drawer_inicio">Inicio</string>
+    <string name="drawer_paquetes">Paquetes</string>
+    <string name="drawer_promociones">Promociones</string>
+    <string name="drawer_contacto">Contacto</string>
+    <string name="actionbar_carrito">Carrito</string>
+    <string name="actionbar_favoritos">Favoritos</string>
+    <string name="actionbar_ubicacion">Ubicacion</string>
 </resources>

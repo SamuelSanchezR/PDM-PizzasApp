@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawer_inicio"
+        android:title="@string/drawer_inicio"
+        android:icon="@drawable/icono_inicio"/>
+    <item
+        android:id="@+id/drawer_paquetes"
+        android:title="@string/drawer_paquetes"
+        android:icon="@drawable/icono_pizza"/>
+    <item
+        android:id="@+id/drawer_promociones"
+        android:title="@string/drawer_promociones"
+        android:icon="@drawable/icono_descuento"/>
+    <item
+        android:id="@+id/drawer_contacto"
+        android:title="@string/drawer_contacto"
+        android:icon="@drawable/icono_contacto"/>
+</menu>

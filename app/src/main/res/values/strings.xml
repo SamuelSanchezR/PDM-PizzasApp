@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PizzasApp</string>
+
+    <string name="tipo_pizza"> Tipo de Pizza </string>
+    <string name="tamaño_pizza"> Tamaño de Pizza </string>
+    <string name="ingredientes_pizza"> Selecciona los ingredientes </string>
+    <string name="ordenar_pizza"> Ordenar </string>
+    <string name="pizza_original">Original</string>
+    <string name="pizza_italiana">Italiana</string>
+    <string name="pizza_crunchy">Crunchy</string>
+    <string name="pizza_sarten">Sarten</string>
+    <string name="pizza_chica">Chica</string>
+    <string name="pizza_mediana">Mediana</string>
+    <string name="pizza_grande">Grande</string>
+    <string name="pizza_familiar">Familiar</string>
+    <string name="ingrediente_pepperoni">Pepperoni</string>
+    <string name="ingrediente_jamon">Jamón</string>
+    <string name="ingrediente_carne_molida">Carne Molida</string>
+    <string name="ingrediente_tocino">Tocino</string>
+    <string name="ingrediente_chorizo">Chorizo</string>
+    <string name="ingrediente_pollo">Pollo</string>
+    <string name="ingrediente_champiñones">Champiñones</string>
+    <string name="ingrediente_piña">Piña</string>
+    <string name="ingrediente_queso_extra">Queso extra</string>
+    <string name="continuar">Continuar</string>
+
+    <string name="datos_cliente">Datos del cliente</string>
+    <string name="cliente_direccion">Dirección</string>
+    <string name="direccion_calle">Calle</string>
+    <string name="direccion_colonia">Colonia</string>
+    <string name="direccion_alcaldia">Alcaldia</string>
+    <string name="direccion_codigo_postal">Código postal</string>
+    <string name="direccion_numero_exterior">Numero exterior</string>
+    <string name="cliente_nombres">Nombres</string>
+    <string name="cliente_apellidos">Apellidos</string>
+    <string name="cliente_telefono">Telefono</string>
+    <string name="orden_lista">Orden Lista</string>
+    <string name="orden_mensaje_agradecimiento">Gracias por su preferencia.</string>
+    <string name="orden_mensaje_confirmacion">En un momento recibiras un mensaje de \n texto con más informacion sobre tu orden.</string>
+
+    <string name="imagen_oden_lista_pizza">Imagen Orden Lista</string>
+</resources>
